@@ -59,13 +59,13 @@ Pour cela, ouvrir le fichier `doc/build/html/index.html` avec votre naviguateur.
 ## Résultats
 
 <figure>
-  <img src="img/Mandelbrot.png" alt="drawing" width="500"/>
   <figcaption>Ensemble de Mandelbrot</figcaption>
+  <img src="img/Mandelbrot.png" alt="drawing" width="500"/>
 </figure>
 
 <figure>
-  <img src="img/Julia.png" alt="drawing" width="500"/>
   <figcaption>Ensemble de Julia pour c=-0.8+0.156j</figcaption>
+  <img src="img/Julia.png" alt="drawing" width="500"/>
 </figure>
 
 
